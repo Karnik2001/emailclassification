@@ -1,6 +1,6 @@
 # Email Classification
 
-Emails are a daily task in everybody lives, however, spam emails have become an increasing potential threat to security mainly on a financial level. With the power of data analytics using machine learning techniques, spam emails can be detected and be prevented. In this simple project, I have a implemented the classification method to classify whether an email is a spam or ham (real). 
+Checking emails are a daily task in everybody lives, however, spam emails have become an increasing potential threat to security mainly on a financial level. With the power of data analytics using machine learning techniques, spam emails can be detected and be prevented. In this simple project, I have a implemented the classification method to classify whether an email is a spam or ham (real). 
 
 Steps 
 
