@@ -22,4 +22,5 @@ Conclusion :
 The accuracy score is 97.2% indictating the model does an excellent job of classifying the emails to protect financial information from potential threats. With this simple model, it can be utilized in several industries to increase financial security involving financial data. 
 
 Citation
+
 https://generativeai.pub/classifying-spam-emails-using-machine-learning-in-python-79023618bb7d
